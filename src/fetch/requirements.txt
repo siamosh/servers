@@ -1,1 +1,6 @@
+fastapi
+pydantic
+requests
+langchain
+openai
 
